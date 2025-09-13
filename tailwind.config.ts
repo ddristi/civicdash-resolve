@@ -57,6 +57,10 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        /* Civic status colors */
+        pending: "hsl(var(--pending))",
+        "in-progress": "hsl(var(--in-progress))",
+        resolved: "hsl(var(--resolved))",
       },
       borderRadius: {
         lg: "var(--radius)",
